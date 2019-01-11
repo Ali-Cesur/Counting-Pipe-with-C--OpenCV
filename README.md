@@ -1,4 +1,4 @@
-# Counting-Pipe-with-C-OpenCV
+# Counting-Pipe-with-C++-OpenCV
 Counting Pipe by using Blob Detection Algorithm and Threshold Trackbar
 
 The code is written in C++.
